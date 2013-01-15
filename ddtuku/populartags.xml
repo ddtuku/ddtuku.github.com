@@ -7,44 +7,176 @@
 	 </APNS>
 	 
 	 <PopularTag>
-	 <Tag>gif</Tag>
-	 <SubTag>动画</SubTag>
+	 <Tag>宠物</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 
+	 <PopularTag>
+	 <Tag>暴走漫画</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 
+	 <PopularTag>
+	 <Tag>动漫</Tag>
+	 <SubTag>点点图库</SubTag>
      <CTR>0</CTR>
 	 </PopularTag>
 	 
 	 <PopularTag>
 	 <Tag>游戏</Tag>
-	 <SubTag>动画</SubTag>
+	 <SubTag>点点图库</SubTag>
      <CTR>0</CTR>
 	 </PopularTag>
 	 
 	 <PopularTag>
-	 <Tag>风景</Tag>
-	 <SubTag>动画</SubTag>
+	 <Tag>汽车</Tag>
+	 <SubTag>点点图库</SubTag>
      <CTR>0</CTR>
 	 </PopularTag>
 	 
 	 <PopularTag>
-	 <Tag>手机</Tag>
-	 <SubTag>动画</SubTag>
+	 <Tag>美食</Tag>
+	 <SubTag>点点图库</SubTag>
      <CTR>0</CTR>
 	 </PopularTag>
 	 
+	 <PopularTag>
+	 <Tag>电影</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>音乐</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>诗歌</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>阅读</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>广告</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>手工</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>家具</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>室内设计</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>建筑</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>平面设计</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
 	 <PopularTag>
 	 <Tag>设计</Tag>
-	 <SubTag>动画</SubTag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>创意</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>插画</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>欧美</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>潮流</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>街拍</Tag>
+	 <SubTag>点点图库</SubTag>
      <CTR>0</CTR>
 	 </PopularTag>
 	 
 	 <PopularTag>
-	 <Tag>车</Tag>
-	 <SubTag>动画</SubTag>
+	 <Tag>复古</Tag>
+	 <SubTag>点点图库</SubTag>
      <CTR>0</CTR>
 	 </PopularTag>
 	 
 	 <PopularTag>
-	 <Tag>旅游</Tag>
-	 <SubTag>照相q,e,ererer</SubTag>
+	 <Tag>时尚</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>手机摄影</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>黑白</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>摄影</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>艺术</Tag>
+	 <SubTag>点点图库</SubTag>
+     <CTR>0</CTR>
+	 </PopularTag>
+	 	 
+	 <PopularTag>
+	 <Tag>旅行</Tag>
+	 <SubTag>点点图库</SubTag>
      <CTR>0</CTR>
 	 </PopularTag>
 	 
